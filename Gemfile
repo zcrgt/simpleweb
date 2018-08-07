@@ -4,3 +4,4 @@ gem 'sinatra-contrib'
 gem "sinatra-activerecord"
 gem 'pg'
 gem "rake"
+gem 'aws-sdk-s3'
